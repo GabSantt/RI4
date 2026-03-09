@@ -13,7 +13,7 @@ export class Empresa {
     getNome(){
         return this.nome
     }
-
+    /*nintendoodeiabr*/
     getCnpj(){
         return this.#cnpj
     }

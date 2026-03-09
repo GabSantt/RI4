@@ -72,7 +72,7 @@ console.log("----------------")
 console.log("Nome:",empresa.getNome())
 console.log("CNPJ:",empresa.getCnpj())
 
-console.log("ENDEREÇO:",
+console.log("ENDEREÇO:", /*gta6700reais*/
     empresa.endereco.getRua(),
     empresa.endereco.getNumero(),
     empresa.endereco.getCidade(),
